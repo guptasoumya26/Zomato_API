@@ -11,7 +11,7 @@ Installation Steps
  4. post that run python chat.py
  5. Bot should be up and running on your localhost, you can host this further on https://www.pythonanywhere.com
  
- ![Optional Text](../master/images/abc.png)
+ ![Optional Text](images/abc.png)
  ---
  ### Contributors
  Soumya Gupta <gupta.soumya26@gmail.com>
