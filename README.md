@@ -1,20 +1,18 @@
-# My-Chatbot-Jarvis
+# Zomato Restaurant Data
 
-This chatbot uses chatterbot library of Python and gets trained via csv file
-See a demo on http://soumyansh.pythonanywhere.com/
+Complete analysis on Zomato Data , using csv file along with Zomato's rest API using Python libraries
 
-Installation Steps
+Visit the PDF for more insights 
+ ---
+#### Restaurants vs Outlets
+<img src="https://raw.githubusercontent.com/guptasoumya26/Zomato_API/master/images/RestaurantsAndOutlets.PNG" alt="zomato-1"/>
 
- 1. Clone the repo in your local folder
- 2. In cmd use pip install -r requirements.txt
- 3. Inside your project folder run python train.py
- 4. post that run python chat.py
- 5. Bot should be up and running on your localhost, you can host this further on https://www.pythonanywhere.com
- 
- 
- 
- <img src="/images/abc.png" alt="My cool logo"/>
-# My cool project and above is the logo of it
+#### Cuisines In USA 
+<img src="https://raw.githubusercontent.com/guptasoumya26/Zomato_API/master/images/USA_cuisines.PNG" alt="zomato-2"/>
+
+#### Votes vs Ratings of Restaurant 
+<img src="https://raw.githubusercontent.com/guptasoumya26/Zomato_API/master/images/VotesAndRating.PNG" alt="zomato-2"/>
+
  ---
  ### Contributors
  Soumya Gupta <gupta.soumya26@gmail.com>
