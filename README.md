@@ -1,6 +1,6 @@
 # Zomato Restaurant Data
 
-### Complete analysis on Zomato Data , using csv file along with Zomato's rest API using Python libraries
+#### Complete analysis on Zomato Data , using csv file along with Zomato's rest API using Python libraries
  ---
 #### Visit the PDF for more insights [Link](https://github.com/guptasoumya26/Zomato_API/blob/master/Project%20API-%20Zomato.pdf)
  ---
